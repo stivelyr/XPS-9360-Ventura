@@ -10,7 +10,23 @@
 * GPU: Intel HD 620
 * RAM: 8GB DDR3
 * SSD : 512GB M.2 SSD
-* OS: macOS macOS Ventura, Windows 11
+* OS: macOS Ventura, Windows 11
 * WIFI/Bluetooth: Killer 1535, Intel Wireless-AC 8265
 * Audio/Mic: Realtek ALC256 (had to install ComboJack along with AppleALC for headphones to work)
-#
+
+## Worked
+* Wifi (Airportitlwm a bit buggy, prefer replace to itlwm + Heliport app)
+* Bluetooth
+* Trackpad
+* Sleep, Restart
+* Audio (For Headphones, use combojack)
+* GPU
+* Brightness/brightness keys
+* Hotkeys
+* Webcam
+* USB C Port
+
+## Not Working
+* Shutdown
+
+feel free to use the files and try stuff on your own
