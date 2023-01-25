@@ -14,7 +14,9 @@
 * WIFI/Bluetooth: Killer 1535, Intel Wireless-AC 8265
 * Audio/Mic: Realtek ALC256 (had to install ComboJack along with AppleALC for headphones to work)
 
-## Worked
+#
+
+### Worked :
 * Wifi (Airportitlwm a bit buggy, prefer replace to itlwm + Heliport app)
 * Bluetooth
 * Trackpad
@@ -26,7 +28,9 @@
 * Webcam
 * USB C Port
 
-## Not Working
+#
+ 
+### Not Working :
 * Shutdown
 
 feel free to use the files and try stuff on your own
