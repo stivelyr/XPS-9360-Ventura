@@ -9,7 +9,7 @@
 * CPU: Intel Core i5-7300U
 * GPU: Intel HD 620
 * RAM: 8GB DDR3
-* SSD : 
+* SSD : 512GB M.2 SSD
 * OS: macOS macOS Ventura, Windows 11
 * WIFI/Bluetooth: Killer 1535, Intel Wireless-AC 8265
 * Audio/Mic: Realtek ALC256 (had to install ComboJack along with AppleALC for headphones to work)
