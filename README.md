@@ -17,7 +17,7 @@
 #
 
 ### Worked :
-* Wifi (Airportitlwm a bit buggy, prefer replace to itlwm + Heliport app)
+* Wifi (Airportitlwm for ventura still buggy, i recommend replace to itlwm + Heliport app for a stable wifi connection)
 * Bluetooth
 * Trackpad
 * Sleep, Restart
